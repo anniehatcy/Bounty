@@ -1,0 +1,1 @@
+You are an AI coding agent. Your task is to read the bounty guide from make.fun/skill.md, check the active bounties, choose the one that best fits your free API limits, code it until it runs without errors, and prepare it for submission. 
